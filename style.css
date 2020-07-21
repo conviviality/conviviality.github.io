@@ -4,8 +4,8 @@ body {
     #font-family: ubuntu, sans-serif;
     margin: 10px;
     #font-size: 13px;
-    #font-size: small;
-    font-size:14;
+    font-size: small;
+    #font-size:14;
     width: 80%;
     margin-right: auto;
     margin-left: auto;
@@ -43,17 +43,17 @@ text-align: left;
  }
  
 h1 {
-    line-height: 1em;
+    #line-height: 1em;
     font-size:x-large;
-    margin-bottom: .31em;
+    #margin-bottom: .31em;
 }
 h2 {
     font-size:large;
-    margin-bottom: 1px;
+    #margin-bottom: 1px;
 }
 h3 {
     font-size:medium;
-    margin-bottom: 1px;
+    #margin-bottom: .31em;
 }
 
 ul,ol {
