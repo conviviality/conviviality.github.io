@@ -1,7 +1,3 @@
-# Testing
+A site to collect thoughts while working on convivial technology. 
 
-Hello hello. Here is where we're going to make the things really go. Including [sensors](sensors.md).
 
-| ![coords](imgs/coords.png) |
-|:--:|
-| hello. | 

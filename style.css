@@ -3,7 +3,7 @@ body {
     #font-family: "Open Sans",sans-serif;
     #font-family: ubuntu, sans-serif;
     margin: 10px;
-    #font-size: 15px;
+    #font-size: 13px;
     #font-size: small;
     font-size:14;
     width: 80%;
@@ -35,9 +35,6 @@ text-align: left;
 #post-content {
     max-width:800px;
 }
-
-
-
 
 
 #profile_pic {
